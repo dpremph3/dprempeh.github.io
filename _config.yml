@@ -16,7 +16,7 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "/derick.pdf", title: "Curricular Vitae", icon: "Home"}
+  - {file: "/derick.pdf", title: "Curricular-Vitae", icon: "Home"}
   - {file: "Projects", url: "https://www.eretmisacademy.com/"}
   - {title: "Blog", file: "/blog.md"}
 
